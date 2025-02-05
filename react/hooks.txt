@@ -1,0 +1,168 @@
+React Hooks Tree 
+ 
+|
+|── 
+useState
+| └── Used to add state variables to functional components.
+| 
+|
+|── 
+useEffect
+| └── Allows performing side effects in functional components, similar to lifecycle methods in class components.
+| 
+|
+|── 
+useContext
+| └── Enables accessing context in functional components.
+|
+|
+|── 
+useReducer
+| └── Alternative to useState for managing complex state logic.
+|
+|
+|── 
+useCallback
+| └── Memoizes callback functions to prevent unnecessary re-renders in child components.
+|
+|
+|── 
+useMemo
+| └── Memoizes the result of expensive calculations to optimize performance.
+|
+|
+|── 
+useRef
+| └── Creates a mutable ref object to persist values between renders without causing re-renders.
+|
+|
+|── 
+useLayoutEffect
+| └── Similar to useEffect, but fires synchronously after all DOM mutations.
+|
+|
+|── 
+useImperativeHandle
+| └── Customizes the instance value that is exposed when using ref with forwardRef.
+|
+|
+|── 
+useDebugValue
+| └── Adds debug labels to custom hooks in React DevTools.
+|
+|
+|── 
+useInsertionEffect
+| └── Handles insertion side-effects.
+|
+|
+|── 
+useDeferredValue
+| └── Defers updating a value until the next render.
+|
+|
+|── 
+useTransition
+| └── Manages state transitions.
+|
+|
+|── 
+useId
+| └── Generates a unique ID.
+|
+|
+|── 
+useNavigate (React Router)
+| └── Enables dynamic navigation between different routes.
+|
+|
+|── 
+useParams (React Router)
+| └── Accesses URL parameters in React Router.
+|
+|
+|── 
+useLocation (React Router)
+| └── Accesses the current URL location.
+|
+|
+|── 
+useOutlet (React Router)
+| └── Returns the element rendered by the outlet.
+|
+|
+|─ 
+useResolvedPath (React Router)
+| └── Resolves the pathname against the current location.
+|
+|
+|── 
+useMatch (React Router)
+| └── Matches the current URL against a specified pattern.
+|
+|
+|── 
+useLoaderData (React Router)
+| └── Loads data for a route.
+|
+|
+|── 
+useActionData (React Router)
+| └── Accesses data from action routes.
+|
+|
+|── 
+useFetcher (React Router)
+| └── Enables fetching data from action routes.
+|
+|
+|── 
+useSubmit (React Router)
+| └── Submits a form to an action route.
+|
+|
+|── 
+useFormAction (React Router)
+| └── Handles form actions.
+|
+|
+|── 
+useRouteError (React Router)
+| └── Accesses error data for a route.
+|
+|
+|── 
+useNavigation (React Navigation)
+| └── Accesses navigation state.
+|
+|
+|── 
+useRevalidator (React Query)
+| └── Revalidates data for a route.
+|
+|
+|── 
+useMutation (React Query)
+| └── Manages mutations.
+|
+|
+|── 
+useQuery (React Query)
+| └── Manages queries.
+|
+|
+|── 
+useQueryClient (React Query)
+| └── Accesses the query client.
+|
+|
+|── 
+useInfiniteQuery (React Query)
+| └── Manages infinite queries.
+|
+|
+|── 
+usePaginatedQuery (React Query)
+| └── Manages paginated queries.
+|
+|____________ END __________________

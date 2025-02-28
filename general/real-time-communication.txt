@@ -1,0 +1,25 @@
+4 real-time communication patterns you should know as a software engineer (not kidding):
+
+
+1 Short Polling
+
+• The client periodically requests the server for an update.
+• The server returns an empty response if nothing has changed.
+
+
+2 Long Polling
+
+• The server holds the client request until there's an update.
+• The server responds to a client only when there's an update.
+• The server returns an empty response on timeout.
+
+
+3 Server-Sent Events
+
+• The server keeps an open connection with the client.
+• The server pushes updates to the client, but communication is unidirectional.
+
+
+4 Websockets
+
+• The server keeps an open TCP connection with the client.

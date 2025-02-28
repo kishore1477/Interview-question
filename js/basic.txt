@@ -1,0 +1,25 @@
+𝗔𝘀𝘆𝗻𝗰𝗵𝗿𝗼𝗻𝗼𝘂𝘀 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁
+
+1. What is the Event Loop in JavaScript, and how does it work?
+2. What are Microtasks and Macrotasks, and how are they scheduled in JavaScript?
+3. What is the difference between setTimeout, setImmediate, and process.nextTick?
+4. How does JavaScript handle asynchronous operations?
+5. What is a Promise, and how does it work under the hood?
+6. What is the difference between Promises and async/await?
+7. How does JavaScript handle callback functions internally?
+8. What is the difference between process.nextTick and setImmediate in Node.js?
+9. What is the Job Queue in JavaScript, and how does it prioritize tasks?
+10. How does requestAnimationFrame work in JavaScript?
+
+𝗠𝗼𝗱𝘂𝗹𝗲𝘀, 𝗖𝗼𝗻𝗰𝘂𝗿𝗿𝗲𝗻𝗰𝘆, 𝗮𝗻𝗱 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲
+
+11. What are JavaScript Modules, and how do they work?
+12. What is the difference between CommonJS and ES6 Modules?
+13. How does tree shaking work in JavaScript bundlers like Webpack?
+14. What are Web Workers, and how do they improve JavaScript performance?
+15. What is the difference between synchronous and asynchronous JavaScript?
+16. How does JavaScript handle multi-threading and concurrency?
+17. What is requestIdleCallback, and how does it optimize performance?
+18. What is the difference between Debouncing and Throttling?
+19. What is the difference between imperative and declarative programming in JavaScript?
+20. How does JavaScript handle BigInt and floating-point precision?

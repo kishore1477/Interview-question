@@ -95,3 +95,32 @@
 28. How can you monitor and optimize JavaScript memory usage?
 29. How does JavaScript handle large objects and memory-intensive operations?
 30. What are Typed Arrays, and how do they improve performance in JavaScript?
+
+
+
+#3
+
+Technical Round 1:
+1. What are the differences between variables and functions?
+2. Can you explain hoisting, Bindings, and closures in JavaScript?
+3. How does the React Virtual DOM with Tree to enhance performance?
+4. What are the advantages of using hooks and custom hooks in React?
+5. Differences between functional and class components in React?
+6. How do you manage state in a React application with flow?
+7. What is the purpose of keys in React lists?
+8. Can you describe the lifecycle methods of a React component?
+9. How do you optimize component performance in React?
+10. Explain the use of the useMemo, useCallBack, useRef and useReducer hook with an example.
+11. What is the Context API, and how can it be a simpler alternative to Redux?
+12. How do you ensure accessibility in React applications?
+13. JS coding problems involving objects and arrays.
+
+Technical Round 2: (On-site)
+1. JS coding problems
+2. Advanced React questions with coding session
+3. CSS questions
+4. Advanced HTML questions
+5. Problem-solving session
+6. React and HTML DOM questions
+7. Security and vulnerability questions
+8. Webpack and NPM

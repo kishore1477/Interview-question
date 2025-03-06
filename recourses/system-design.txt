@@ -1,0 +1,41 @@
+If you want to get a better backend engineer, read these 10 articles:
+
+1. An overview of the most popular API architectural styles: SOAP, REST, GraphQL, Webhook, Websocket, and gRPC. 
+
+https://lnkd.in/gxrv5fyw 
+
+2. All what you need to know to make your database more scalable, faster, and available with sharding. 
+
+https://lnkd.in/gsJzcNHV 
+
+3. Pros and cons of binary encodings, and how protobuf works. 
+
+https://lnkd.in/e3puqWZa 
+
+4. Lessons learned from how the Notion's team sharded their monolithic Postgres. 
+
+https://lnkd.in/e55Jty5c 
+
+5. A deep dive into message queues: core components, messaging protocols, and communication styles. 
+
+https://lnkd.in/gZ39UAFj 
+
+6. Three different approaches to scalability: adding server clones, functional partitioning, and data partitioning. 
+
+https://lnkd.in/eXGm8MBC 
+
+7. A deep dive into database indexing. Part one: how indexes are implemented.
+
+https://lnkd.in/eBK7n3Jh 
+
+8. The three pillars of observability and why Booking uses a different approach. 
+
+https://lnkd.in/eP5Sx_Hh 
+
+9. An introduction to container orchestration plus a deep dive into Kubernetes. 
+
+https://lnkd.in/eqNWb4Si 
+
+10. A deep dive into Redis. Architecture, data types and operations, persistency model, use cases and much more. 
+
+https://lnkd.in/exGC5a6H

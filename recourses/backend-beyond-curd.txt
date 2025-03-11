@@ -1,0 +1,60 @@
+1. Security
+
+a. Authentication & Authorization 
+b. Cryptography
+c. Encryption Algorithms
+d. OWSAP Top 10
+e. SEIM, IDS, IPS, etc.
+f. misc: OAuth 2.0, JWT, etc.
+
+2. Performance
+
+a. Caching strategies
+b. Rate-limiting & Throatling
+c. Load balancing
+d. Choas Engineering
+e. Fault Tolerance
+
+3. Database Engineering 
+
+a. Query optimization 
+b. Indexing
+c. Database trade-offs
+d. Database transactions and isolation levels
+e. Sharding and partitioning 
+
+4. API Design
+
+a. OpenAPI 3.0 standards
+b. Restful & GraphQL API principles 
+c. Status codes, versioning, and pagination strategies
+
+5. Architecture & Paradigms
+
+a. Monolith
+b. Modular monolith
+c. Microservices
+d. Serverless vs Native
+e. Concurrency & parallelism
+f. Multithreading
+g. Optimistic and pessimistic locking
+
+6. Distributed systems 
+
+a. Microservices patterns
+b. Event-driven approach 
+c. Serverless vs native approach
+d. gRPC & Protobuf
+
+7. DevOps
+
+a. CI/CD
+b. Containerization 
+c. Understanding of SLAs
+d. Incident Management
+
+8. Observability 
+
+a. Logging, monitoring, and tracing
+b. Profiling & optimization
+c. Alerting

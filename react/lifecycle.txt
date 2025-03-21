@@ -1,0 +1,22 @@
+🚀 React.js Lifecycle Methods – Scenario-Based Interview Questions ⏳💡
+Mastering React.js Lifecycle Methods is crucial for optimizing component behavior. If you're preparing for an interview, here are some scenario-based questions to test your understanding! 👇
+🎯 Scenario-Based React Lifecycle Questions
+1️⃣ A user complains about slow rendering in a large app. How would you optimize re-renders using lifecycle methods? 🤔
+ 💡 Hint: Use shouldComponentUpdate or React.memo.
+2️⃣ You need to fetch data only once when a component mounts. Which lifecycle method will you use? 🔄
+ 💡 Hint: componentDidMount is your friend!
+3️⃣ An API call inside componentDidMount fails randomly. How would you handle errors gracefully? ⚠️
+ 💡 Hint: Implement error handling & consider componentDidCatch for error boundaries.
+4️⃣ A component updates infinitely after setting state inside componentDidUpdate. How do you fix it? 🔁
+ 💡 Hint: Add a conditional check before calling setState to avoid loops.
+5️⃣ Your app crashes when a child component fails to render. How would you prevent this? 🚨
+ 💡 Hint: Use componentDidCatch and create an error boundary component.
+6️⃣ You need to execute cleanup operations (e.g., removing event listeners) before unmounting. Where would you do this? 🧹
+ 💡 Hint: Use componentWillUnmount for cleanup tasks.
+7️⃣ A component needs to update only when a specific prop changes. How would you achieve this? 🔄
+ 💡 Hint: Use shouldComponentUpdate or getDerivedStateFromProps wisely!
+8️⃣ You need to derive state from props before rendering. Which method will you use? 🏗️
+ 💡 Hint: getDerivedStateFromProps, but prefer controlled components where possible!
+9️⃣ React is moving away from class components. How would you handle lifecycle logic in functional components? 🔧
+ 💡 Hint: Use useEffect for side effects and useMemo for optimizations.
+✨ Final Thoughts
